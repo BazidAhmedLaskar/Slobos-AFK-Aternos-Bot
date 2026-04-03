@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sidlinath.aternos.me",
-    "port": 59372,
+    "ip": "bax_10.aternos.me",
+    "port": 55505,
     "version": "",
     "try-creative": false
   },
